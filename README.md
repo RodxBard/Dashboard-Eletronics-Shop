@@ -1,3 +1,4 @@
-# Dashboard-Vendas-Eletronicos
+# Dashboard-Sales-Eletronics
 
-Nesse Projeto foi feito a partir do Microsoft Power BI e uma planilha de dados fornecido pelo instrutor Anderson Loureiro.
+Business Intelligence (BI) Dashboard for an Electronics Shop, focusing on monitoring crucial metrics and Key Performance Indicators (KPIs).
+The dashboard was meticulously crafted using a Star Schema on Power BI, allowing for a structured and efficient data representation.
